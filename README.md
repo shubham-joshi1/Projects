@@ -1,4 +1,4 @@
-# Projects
+# Project
 Traffic Density Analyzer
 
 Brief explanation
