@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 # Load the pre-trained YOLOv8 model
-model = YOLO('yolov8n.pt')  # 'yolov8n.pt' is the smallest version. You can use 'yolov8m.pt' or 'yolov8l.pt' for better accuracy.
+model = YOLO('yolov8n.pt')  # 'yolov8n.pt' is the smallest version of yolov8 models.
 
 # Open the video file or webcam
 video_path = r"C:\Users\Shubham\Downloads\2103099-uhd_3840_2160_30fps.mp4"  
